@@ -1,5 +1,5 @@
  
-
+please note this is not my proj entirely, i edited and improved someone else's a lot
 
 > Open this page at [https://gongitygongitygong.github.io/castle-crawler-improved/](https://gongitygongitygong.github.io/castle-crawler-improved/)
 
